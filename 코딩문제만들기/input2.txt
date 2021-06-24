@@ -1,0 +1,6 @@
+5
+npm install -g hello
+npm
+npm install -g -g hello
+vue add add
+python manage.py makemigration
